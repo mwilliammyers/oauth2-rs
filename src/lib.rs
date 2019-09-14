@@ -334,7 +334,6 @@ extern crate serde;
 extern crate serde_derive;
 extern crate serde_json;
 extern crate sha2;
-extern crate tokio_io;
 extern crate url;
 
 use std::borrow::Cow;
